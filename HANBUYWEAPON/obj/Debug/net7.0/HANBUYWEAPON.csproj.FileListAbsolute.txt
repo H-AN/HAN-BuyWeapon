@@ -1,0 +1,14 @@
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\bin\Debug\net7.0\HANBUYWEAPON.deps.json
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\bin\Debug\net7.0\HANBUYWEAPON.dll
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\bin\Debug\net7.0\HANBUYWEAPON.pdb
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\bin\Debug\net7.0\CounterStrikeSharp.API.dll
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\bin\Debug\net7.0\CounterStrikeSharp.API.pdb
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\bin\Debug\net7.0\CounterStrikeSharp.API.xml
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\HANBUYWEAPON.csproj.AssemblyReference.cache
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\HANBUYWEAPON.GeneratedMSBuildEditorConfig.editorconfig
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\HANBUYWEAPON.csproj.CoreCompileInputs.cache
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\HANBUYWE.2294101B.Up2Date
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\HANBUYWEAPON.dll
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\refint\HANBUYWEAPON.dll
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\HANBUYWEAPON.pdb
+D:\css\CS2\chajian\CounterStrikeSharp-main\examples\HANBUYWEAPON\obj\Debug\net7.0\ref\HANBUYWEAPON.dll
